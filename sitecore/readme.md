@@ -1,1 +1,5 @@
-Install here Sitecore with (Data, Database, Website)
+# Install Sitecore here
+
+ - Data
+ - Databases
+ - Website
