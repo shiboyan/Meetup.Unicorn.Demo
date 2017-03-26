@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetup.Feature.Demo", "Meetup.Feature.Demo\Meetup.Feature.Demo.csproj", "{711297C8-5B87-448E-A68F-8C030C38BCC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetup.Foundation.Serialization", "Meetup.Foundation.Serialization\Meetup.Foundation.Serialization.csproj", "{1F55B7D8-E20C-4324-AE25-C15293C123AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{711297C8-5B87-448E-A68F-8C030C38BCC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{711297C8-5B87-448E-A68F-8C030C38BCC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{711297C8-5B87-448E-A68F-8C030C38BCC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{711297C8-5B87-448E-A68F-8C030C38BCC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F55B7D8-E20C-4324-AE25-C15293C123AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F55B7D8-E20C-4324-AE25-C15293C123AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F55B7D8-E20C-4324-AE25-C15293C123AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F55B7D8-E20C-4324-AE25-C15293C123AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

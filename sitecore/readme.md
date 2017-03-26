@@ -1,0 +1,1 @@
+Install here Sitecore with (Data, Database, Website)

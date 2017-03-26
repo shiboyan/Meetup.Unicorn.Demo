@@ -1,0 +1,14 @@
+﻿---
+ID: "98d29ff3-e216-4d0b-bef3-e0d74a8982fe"
+Parent: "9bef3b62-b632-4b31-9e69-bd86271a552c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Meetup/Feature/Demo/Demo/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170326T080617Z

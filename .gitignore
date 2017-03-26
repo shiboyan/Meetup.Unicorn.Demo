@@ -1,0 +1,10 @@
+sitecore/Data
+sitecore/Databases
+sitecore/Website
+src/packages
+*.suo
+*.vs
+bin
+obj
+*.csproj.user
+*.pubxml.user

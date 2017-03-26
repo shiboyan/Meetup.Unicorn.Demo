@@ -1,0 +1,23 @@
+﻿---
+ID: "9bef3b62-b632-4b31-9e69-bd86271a552c"
+Parent: "962b977f-f799-48b0-8f8a-a19a8e62e624"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Meetup/Feature/Demo/Demo
+DB: master
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|modules\Feature Demo Designer|pe|+item:read|pd|+item:read|ar|modules\Feature Demo Editor|pe|+item:read|pd|+item:read|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170326T080549Z
